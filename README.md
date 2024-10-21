@@ -11,3 +11,7 @@
 
 - clash订阅链接：https://git.io/emzclash
 - v2ray订阅链接：https://git.io/emzv2ray
+
+
+
+# 加⭐收藏不迷路，感谢支持
